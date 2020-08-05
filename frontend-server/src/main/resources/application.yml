@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /gutenberg
+
+ 
+gutenberg:
+  baseBooksUrl: http://localhost:8081
+  baseReviewsUrl: http://localhost:8082
+  baseOrdersUrl: http://localhost:8083
+  baseUsersUrl: http://localhost:8084
+
+
+
+
